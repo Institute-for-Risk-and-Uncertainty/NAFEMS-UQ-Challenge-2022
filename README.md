@@ -12,10 +12,7 @@ The repository contains the MATLAB codes used to perform the Bayesian model upda
 </details>
 
 ## Authors:
-* Name: Adolphus Lye
-* Contact: adolphus.lye@liverpool.ac.uk/snrltsa@nus.edu.sg
-* Affiliations: 1) Insitute for Risk and Uncertainty, University of Liverpool; 2) Singapore Nuclear Research and Safety Initiatives, National University of Singapore.
-//
-* Name: Marco De-Angelis
-* Contact: mda@liverpool.ac.uk/marco.de-angelis@strath.ac.uk
+* Names: 1) Adolphus Lye, and 2) Marco De-Angelis
+* Contact: 1) adolphus.lye@liverpool.ac.uk / snrltsa@nus.edu.sg 2) mda@liverpool.ac.uk / marco.de-angelis@strath.ac.uk
 * Affiliations: 1) Insitute for Risk and Uncertainty, University of Liverpool; 2) University of Strathclyde
+
