@@ -1,6 +1,6 @@
 # NAFEMS-SWG Benchmark Problem 2022 - Uncertain Knowledge
 
-This is an open repository containing the codes used to tackle the challenge problems.
+This is an open repository containing the codes used to tackle the challenge problems. Details to the challenge problems can be found on the PDF document titled: "benchmark_april_2022_article.pdf".
 
 ## Challenge Problem 1:
 Run the MATLAB code named "NAFEMS_Problem_1.m" followed by the R code named "NAFEMS1.R"
