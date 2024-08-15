@@ -11,6 +11,7 @@ For the log model evidence analysis, run the MATLAB files "Cluster1.m" and "Clus
 Following this, run the MATLAB code named "NAFEMS_Problem_2.m" followed by the R code named "NAFEMS2.R"
 
 ## Reference(s):
+* NAFEMS Stochastic Working Group (2022). Stochastic Challenge Problem: Uncertain Knowlege. *Stochastic Challenge Problems Website*. URL: [https://www.nafems.org/community/working-groups/stochastics/challenge_problem/](https://www.nafems.org/community/working-groups/stochastics/challenge_problem/)
 * A. Lye, A. Gray, M. de-Angelis, and S. Ferson (2023). Robust Probability Bounds Analysis for Failure Analysis under Lack of Data and Model Uncertainty. *In Proceedings of the 5th International Conference on Uncertainty Quantication in Computational Sciences and Engineering, 1*, 391-407. doi: [10.7712/120223.10345.19797](https://www.eccomasproceedia.org/conferences/thematic-conferences/uncecomp-2023/10345)
 
 ## Author:
